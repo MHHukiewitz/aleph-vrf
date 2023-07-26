@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["mhh <mike.hukiewitz@robotter.ai>"]
 readme = "README.md"
-packages = [{include = "aleph_vrf"}]
+packages = [{include = "*"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
