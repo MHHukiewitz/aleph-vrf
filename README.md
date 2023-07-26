@@ -1,1 +1,2 @@
-# Aleph VRF
+# VRF
+Just some VRF experiments
